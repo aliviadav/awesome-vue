@@ -290,6 +290,7 @@
 
 - [VueNYC](https://www.youtube.com/vuenyc)
 - [VueConf EU](https://www.youtube.com/channel/UC9dJjbYeXjirDYYVfUD3bSw)
+- [How to integrate Gin middleware in Golang](https://youtu.be/KKC_OpFk9WY)
 
 ### Official Examples
 
